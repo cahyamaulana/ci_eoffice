@@ -10,4 +10,3 @@ Rabu, 2 Januari 2018 :
 - myscript.js (penambahan sweetalert)
 - Bagian (Model, View, Controller)
 - Subbagian (Model, View, Controller)
-
